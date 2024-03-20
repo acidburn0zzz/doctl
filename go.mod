@@ -7,7 +7,7 @@ require (
 	github.com/creack/pty v1.1.11
 	github.com/digitalocean/godo v1.99.0
 	github.com/docker/cli v23.0.0-rc.1+incompatible
-	github.com/docker/docker v23.0.0-rc.1+incompatible
+	github.com/docker/docker v24.0.9+incompatible
 	github.com/docker/docker-credential-helpers v0.7.0 // indirect
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.13.0
